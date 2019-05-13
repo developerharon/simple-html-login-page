@@ -1,2 +1,2 @@
-# simple-html-login-page
-It a simple form designed in HTML5 and uses JavaScript to validate its content
+# Simple HTML Login Page
+This is my first project small project with JavaScript. It made up of HTML, CSS and JavaScript purely. HTML has been used to create the structure, CSS has been use design the robust UI and JavaScript has been used to make it responsive and be able to Validate the values. 
